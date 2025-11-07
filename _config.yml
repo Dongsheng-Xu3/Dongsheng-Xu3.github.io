@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dongsheng Xu"
+  name             : "Dongsheng Xu (徐东升)"
   pronouns         : # example: "she/her"  
-  bio              : "University of Science and Technology of China"
+  bio              : "USTC"
   location         : "China Anhui"
   employer         : "Red Brick University"
   uri              : # URL
